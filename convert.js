@@ -46,13 +46,13 @@ bitcoinClick.addEventListener("click", function(){
     searchBoxPopup.classList.remove("hidden");
     
   })
-  /*
-  searchInput.addEventListener("blur", function(){
+  
+  cryptoAmountInput.addEventListener("focus", function(){
    
     searchBoxPopup.classList.add("hidden");
     
   })
-  */
+  
 //const hasLetterE = [a.e];
 //const hasLetterB = [a.b];
 
